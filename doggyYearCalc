@@ -1,0 +1,17 @@
+//Human years
+var myAge = 32;
+
+//Early Years
+var earlyYears = 2;
+
+earlyYears *= 10.5;
+myAge -= 2;
+
+//early years converted to later years
+const laterYears = earlyYears;
+
+//calculation for dog years
+laterYears *= 4;
+
+console.log(earlyYears);
+
