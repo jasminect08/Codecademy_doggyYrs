@@ -10,7 +10,7 @@ myAge -= 2;
 //early years converted to later years
 const laterYears = earlyYears;
 
-//calculation for dog years
+//calculation for dog years error shows here
 laterYears *= 4;
 
 console.log(earlyYears);
